@@ -1,0 +1,14 @@
+{
+	"name": "Calendso",
+	"description": "Calendso",
+	"repository": "https://github.com/uguraba/calendso",
+	"keywords": [
+		"node",
+		"paste",
+		"pastebin",
+		"haste",
+		"hastebin",
+		"code",
+		"syntax highlighting"
+	]
+}
